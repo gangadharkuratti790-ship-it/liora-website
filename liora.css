@@ -1,0 +1,113 @@
+
+.icons{
+    color: rgb(44, 42, 42);
+    background-color:rgb(179, 172, 172);
+    gap: calc(1000px);
+    width: 1325px;
+}
+.manu{
+    display: flex;
+    gap: 10px;
+}
+
+.manu2{
+    margin: 20px;
+    
+}
+.manu3{
+    margin: 20px;
+   
+}
+.manu4{
+    margin: 20px;
+   
+}
+.nave{
+    display: flex;
+    gap: 10px;
+}
+.nave1{
+    margin: 20px;
+}
+.nave2{
+    margin: 20px;
+}
+.nave3{
+    margin: 20px;
+}
+.manu2{
+    overflow: hidden;
+}
+.manu2 img{
+    width: 100%;
+    transition: 0.3s;
+}
+.manu2 img:hover{
+    transform: scale(1.1);
+}
+.manu3{
+    overflow: hidden;
+}
+.manu3 img{
+    width: 100%;
+    transition: 0.3s;
+}
+.manu3 img:hover{
+    transform: scale(1.1);
+}
+.manu4{
+    overflow: hidden;
+}
+.manu4 img{
+    width: 100%;
+    transition: 0.5s;
+}
+.manu4 img:hover{
+    transform: scale(1.1);
+}
+.nave1{
+    overflow: hidden;
+}
+.nave1 img{
+    width: 100%;
+    transition: 0.5s;
+}
+.nave1 img:hover{
+    transform: scale(1.1);
+}
+.nave2{
+    overflow: hidden;
+}
+.nave2 img{
+    width: 100%;
+    transition: 0.5s;
+}
+.nave2 img:hover{
+    transform: scale(1.1);
+}
+.nave3{
+    overflow: hidden;
+}
+.nave3 img{
+    width: 100%;
+    transition: 0.5s;
+}
+.nave3 img:hover{
+    transform: scale(1.1);
+}
+.butt{
+    overflow: hidden;
+}
+.butt  {
+  padding: 12px 24px;
+  background-color: #c97c8c; /* rose */
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.butt:hover {
+  background-color: #a85f6f;
+}
+

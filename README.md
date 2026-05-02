@@ -46,3 +46,5 @@ This project was built to practice front-end skills and understand how real-worl
 Thanks to the workshop instructor for guiding and teaching the concepts of web development.
 
 ---
+## Live Demo
+https://gangadharkuratti790-ship-it.github.io/liora-website/
